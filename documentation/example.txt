@@ -1,0 +1,124 @@
+Bengali Word-list *** Words: 122   
+   
+dhApa 		 ddh A p 
+kATha 		 k A Th 
+glAbhasa 		 g l A bh s 
+bApa 		 b A p 
+kATa'' 		 k A T 
+DAla 		 D A l 
+gArDa 		 g A rr D 
+tApa 		 tt A p 
+tAka 		 tt A k 
+pA~ncha 		 p A n ch 
+DAba 		 D A b 
+DrAphTa 		 D rr A ph T 
+bANa 		 b A n 
+kAma' 		 k A m 
+bAgha(2) 		 b A g 
+khAsa 		 kh A s 
+khAna' 		 kh A n 
+ghA.Da 		 gh A R 
+dhAta 		 ddh A tt 
+phAsa 		 ph A s 
+pATa' 		 p A T 
+pAmpa 		 p A m p 
+gAla' 		 g A l 
+bAsha 		 b A sh 
+pArka 		 p A rr k 
+TAYa 		 T A Y 
+trAna 		 tt rr A n 
+tAla 		 tt A l 
+kAra 		 k A rr 
+tAna'' 		 tt A n 
+bAcha 		 b A ch 
+kAsha 		 k A sh 
+grApha 		 g rr A ph 
+grAsa 		 g rr A s 
+prANa 		 p rr A n 
+khAYa 		 kh A Y 
+phAra 		 ph A rr 
+bAra 		 b A rr 
+klAsa 		 k l A s 
+bhAna 		 bh A n 
+khATa' 		 kh A T 
+phArsTa 		 ph A rr s T 
+TrAma 		 T rr A m 
+dAYa 		 dd A Y 
+bAja 		 b A j 
+bArcha 		 b A rr ch 
+tAra'' 		 tt A rr 
+dhAra'' 		 ddh A rr 
+bAda'' 		 b A dd 
+TAga 		 T A g 
+dAma 		 dd A m 
+ThATa 		 Th A T 
+TrAsTa 		 T rr A s T 
+bAsa' 		 b A s 
+bhAba' 		 bh A b 
+pAYa 		 p A Y 
+kAla' 		 k A l 
+bA.Da' 		 b A R 
+kApa 		 k A p 
+DAcha 		 D A ch 
+DrAga 		 D rr A g 
+gAna' 		 g A n 
+pAla 		 p A l 
+pArTasa 		 p A rr T s 
+bhATa' 		 bh A T 
+pAra'' 		 p A rr 
+bAma 		 b A m 
+kAja 		 k A j 
+pAma 		 p A m 
+DAna'' 		 D A n 
+thArDa 		 tth A rr D 
+thAka' 		 tth A k 
+krAcha 		 k rr A ch 
+phAba 		 ph A b 
+gAchha 		 g A chh 
+plyAna 		 p l A n 
+ghATa'' 		 gh A T 
+glAsa 		 g l A s 
+kAt 		 k A tt 
+kArDa 		 k A rr D 
+gAYa 		 g A Y 
+dAna 		 dd A n 
+DAsTa 		 D A s T 
+TAna'' 		 T A n 
+thAma 		 tth A m 
+brAsha 		 b rr A sh 
+tAja 		 tt A j 
+kAbha 		 k A bh 
+ghrANa 		 gh rr A n 
+pArTa 		 p A rr T 
+pAka 		 p A k 
+TrAka 		 T rr A k 
+DrAma 		 D rr A m 
+DApha' 		 D A ph 
+bhAga 		 bh A g 
+bhAta'' 		 bh A tt 
+bAla'' 		 b A l 
+bhAra'' 		 bh A rr 
+ghAsa 		 gh A s 
+kAchha 		 k A chh 
+TAra' 		 T A rr 
+pAsha 		 p A sh 
+pArlasa 		 p A rr l s 
+dAsa 		 dd A s 
+ghAma 		 gh A m 
+prAYa 		 p rr A Y 
+dhAna 		 ddh A n 
+tAsa 		 tt A s 
+klAba 		 k l A b 
+phAnDa 		 ph A n D 
+dAga 		 dd A g 
+kAna 		 k A n 
+grAma 		 g rr A m 
+dbAra' 		 dd A rr 
+pAna 		 p A n 
+phAsTa 		 ph A s T 
+DAka' 		 D A k 
+pATha 		 p A Th 
+pAlsa 		 p A l s 
+kAka'' 		 k A k 
+bAgha 		 b A gh 
+DhAka' 		 Dh A k 
