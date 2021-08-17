@@ -1,11 +1,24 @@
-# Bengali_Word_Finder  
+# Bengali Word-Finder  
 
-A tool to generate lists of Bengali words and transcriptions that fulfill specified phonetic criteria.   
+Psycholinguistic experiments often call for words that begin with, end with, or contain certain sounds, number of syllables etc. Finding these by introspection takes time and is not the most efficient or reliable.
 
-This project was created as a part of the course Python for NLP, EFL University, Hyderabad (Dec 2020)  
+The word-finder uses an underlying corpus to generate lists of words fulfilling specified phonetic criteria. These can be the presence or absence of certain sounds at given positions, or number of syllables. Apart from single sounds, it also pre-defines linguistically relevant sound groups, so that it is possible to find, for example, words that begin with a nasal, or contain a voiced retroflex. You can use boolean operators (`AND` and `OR`) to combine multiple conditions.
 
-Data and transcription system from the SHRUTI corpus (Das, B., Mandal, S., & Mitra, P. (2011, October). Bengali speech corpus for continuous auutomatic speech recognition system. In 2011 International conference on speech database and assessments (Oriental COCOSDA) (pp. 51-55). IEEE.)  
+It is also possible to preview, edit, and filter a current selection before generating an output file with the list of words.
 
-Words are transliterated using the ITRANS format (Indian languages TRANSliteration)  
+--------
+To use:
 
-Program documentation and usage information are available as a PDF in the "documentation" folder. Usage instructions can also be accessed through the HELP command in the main program.  
+1. Clone this repository
+2. Open a terminal window and direct it to the base directory (`cd path/to/directory/Bengali_Word_Finder/`)
+3. Run `bengali_word_finder.py` on python 3 (`python3 bengali_word_finder.py`)
+- Note that the other scripts are called as modules by the main program, so make sure you don't change the directory structure
+- Detailed documentation and example output in the `Documentation` folder. You can also find usage instructions from the `HELP` command when you run the main program
+
+-------
+
+
+This version currently works with data and transcription system from the Bengali [SHRUTI corpus](http://cse.iitkgp.ac.in/~pabitra/shruti_corpus.html). Words are transliterated using the [ITRANS](https://www.aczoom.com/itrans/html/tblall/tblall.html) format (Indian languages TRANSliteration). To use with any related language that has a corpus with a similar transcription scheme (reference on pg. 52 [here](http://cse.iitkgp.ac.in/~pabitra/paper/ococosda11.pdf)), replace the file `shruti.dic` with the pronunciation dictionary from your corpus of choice.
+
+Using the word-finder with a different transcription scheme/phonologically unrelated language will need some changes to the code. I'm currently trying to separate the language-specific part of the program from core functionality as much as possible, so that customizing for new languages is simpler. If you want to use it for another language, are interested in contributing to the code, or have any suggestions, please get in touch! 
+ 
