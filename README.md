@@ -1,6 +1,6 @@
 # Bengali Word-Finder  
 
-Psycholinguistic experiments often need words that begin with, end with, or contain certain sounds, number of syllables etc. Finding these by introspection takes time and is not the most efficient or reliable.
+Psycholinguistic experiments often require sets of words that begin with, end with, or contain certain sounds, have a certain number of syllables etc. Finding these by introspection takes time and is not the most efficient or reliable.
 
 The word-finder uses an underlying corpus to generate lists of words matching specified phonological descriptions. These can be the presence or absence of certain sounds at given positions, or number of syllables. Apart from single sounds, it also pre-defines linguistically relevant sound groups, so that it is possible to find, for example, words that begin with a nasal, or contain a voiced retroflex. You can use boolean operators (`AND` and `OR`) to combine multiple conditions.
 
