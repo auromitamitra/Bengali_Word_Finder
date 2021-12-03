@@ -13,12 +13,12 @@ To use:
 2. Open a terminal window and direct it to the base directory (`cd path/to/directory/Bengali_Word_Finder/`)
 3. Run `bengali_word_finder.py` on python 3 (`python3 bengali_word_finder.py`)
 - Note that the other scripts are called as modules by the main program, so make sure the directory structure remains the same
-- Detailed documentation and example output in the `Documentation` folder. Usage instructions can also be found from the `HELP` command when you run the main program
+- Detailed documentation and example output in the `Documentation` folder. Usage instructions can also be found from the `HELP` command inside the main program
 
 -------
 
 
 This tool currently works with data and transcription system from the Bengali [SHRUTI corpus](http://cse.iitkgp.ac.in/~pabitra/shruti_corpus.html). Words are transliterated using the [ITRANS](https://www.aczoom.com/itrans/html/tblall/tblall.html) format (Indian languages TRANSliteration). To use with any related language that has a corpus with a similar transcription scheme (reference on pg. 52 [here](http://cse.iitkgp.ac.in/~pabitra/paper/ococosda11.pdf)), replace the file `shruti.dic` with the pronunciation dictionary from your corpus of choice.
 
-Using the word-finder with a different transcription scheme/phonologically unrelated language will need some changes to the code. I'm working to separate the language-specific part of the program from core part, so that customizing for new languages is simpler. If you want to use it for another language, are interested in contributing to the code, or have any suggestions, please get in touch! 
+Using the word-finder with a different transcription scheme/phonologically unrelated language is possible, but will need some changes to the code. If you want to use it for another language, are interested in contributing, or have any suggestions, please drop me an email at `auromita.mitra@gmail.com`! 
  
